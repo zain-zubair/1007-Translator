@@ -2,7 +2,7 @@
 
 A language converter from english to 1007 (Leet) - COMP 1405
 
-# Learning Experience
+## Learning Experience
 
 - Implemented custom string manipulation functions: By creating my own string operations instead of relying on built-in functions, I gained a deeper understanding of how string manipulation works at a lower level.
 - Enhanced code optimization: Writing functions from scratch allowed me to optimize them specifically for my translator's needs, improving code efficiency and reducing unnecessary overhead.
